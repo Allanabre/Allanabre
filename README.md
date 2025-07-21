@@ -13,7 +13,7 @@ I am a certified technician in Data Analytics, Data Science, and Data Engineerin
 Currently, I focus on:  
 - Data Science  
 - Data Engineering
--   
+- Data Analysis
 - Artificial Intelligence
   
 ---
