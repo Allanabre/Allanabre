@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Allana Abrego</h1>
+<h1 align="center">Hello, I'm Allana Abrego!</h1>
 
 <p align="center">
   💻 Data Technology Specialist | 🎓 Future MIT Student | 👩‍💻 Passionate about technology and innovation
